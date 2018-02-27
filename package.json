@@ -1,0 +1,23 @@
+{
+  "name": "highcharts-contour",
+  "version": "1.0.0",
+  "description": "This is a plugin for Highcharts to display contour curves.",
+  "main": "highcharts-contour.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HCans/highcharts-contour.git"
+  },
+  "keywords": [
+    "heatmap",
+    "contour"
+  ],
+  "author": "Paulo Raca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HCans/highcharts-contour/issues"
+  },
+  "homepage": "https://github.com/HCans/highcharts-contour#readme"
+}
